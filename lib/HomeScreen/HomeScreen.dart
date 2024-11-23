@@ -76,7 +76,7 @@ class trang1 extends StatelessWidget {
       
                 ),
               ),
-              const SizedBox( height: 14.5),
+              const SizedBox(gt: 14.5),
               Expanded(
                 child: Container(
                   child: SingleChildScrollView(
